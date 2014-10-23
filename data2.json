@@ -1,0 +1,107 @@
+[  
+    {
+        "abb": "ND",
+        "state": "North Dakota",
+        "pctempag": "8.8",
+        "unemprate": "3.1",
+        "pctlandfarms": "89.80"
+    },
+    {
+        "abb": "MT",
+        "state": "Montana",
+        "pctempag": "7.1",
+        "unemprate": "6",
+        "pctlandfarms": "65.90"
+    },
+    {
+        "abb": "SD",
+        "state": "South Dakota",
+        "pctempag": "6.9",
+        "unemprate": "4.4",
+        "pctlandfarms": "90.00"
+    },
+    {
+        "abb": "OK",
+        "state": "Oklahoma",
+        "pctempag": "4.8",
+        "unemprate": "5.2",
+        "pctlandfarms": "79.90"
+    },
+    {
+        "abb": "NE",
+        "state": "Nebraska",
+        "pctempag": "4.6",
+        "unemprate": "3.9",
+        "pctlandfarms": "92.50"
+    },
+    {
+        "abb": "NM",
+        "state": "New Mexico",
+        "pctempag": "4.5",
+        "unemprate": "6.9",
+        "pctlandfarms": "55.70"
+    },
+    {
+        "abb": "IA",
+        "state": "Iowa",
+        "pctempag": "4.0",
+        "unemprate": "5.2",
+        "pctlandfarms": "86.00"
+    },
+    {
+        "abb": "KS",
+        "state": "Kansas",
+        "pctempag": "3.5",
+        "unemprate": "5.7",
+        "pctlandfarms": "88.60"
+    },
+    {
+        "abb": "TX",
+        "state": "Texas",
+        "pctempag": "3.0",
+        "unemprate": "6.8",
+        "pctlandfarms": "78.00"
+    },
+    {
+        "abb": "KY",
+        "state": "Kentucky",
+        "pctempag": "2.9",
+        "unemprate": "8.2",
+        "pctlandfarms": "55.40"
+    },
+    {
+        "abb": "MN",
+        "state": "Minnesota",
+        "pctempag": "2.4",
+        "unemprate": "5.6",
+        "pctlandfarms": "52.90"
+    },
+    {
+        "abb": "MO",
+        "state": "Missouri",
+        "pctempag": "1.8",
+        "unemprate": "6.9",
+        "pctlandfarms": "66.00"
+    },
+    {
+        "abb": "IN",
+        "state": "Indiana",
+        "pctempag": "1.4",
+        "unemprate": "8.4",
+        "pctlandfarms": "64.40"
+    },
+    {
+        "abb": "IL",
+        "state": "Illinois",
+        "pctempag": "1.1",
+        "unemprate": "8.9",
+        "pctlandfarms": "75.40"
+    },
+    {
+        "abb": "OH",
+        "state": "Ohio",
+        "pctempag": "1.0",
+        "unemprate": "7.2",
+        "pctlandfarms": "53.40"
+    }
+]
