@@ -22,7 +22,7 @@ function loadData4(){
 });
 }
 
-   function parseData4(data4){
+function parseData4(data4){
    
 var callout = [];
 var callout1 = [];
@@ -33,9 +33,9 @@ var callout1 = [];
    callout.push(dataObj[i].callout);
    callout1.push(dataObj[i].callout1);
    }
-   
-   $("#callout").text(callout[0]);
-   $("#callout1").text(callout1[0]);
+   console.log(callout[0])
+   $("#callout").text(callout[0] + "%");
+   $("#callout1").text(callout1[0] + "%");
    
    }
 
@@ -227,7 +227,7 @@ function makeChart() {
             enabled: false
         },
         series: [{
-            name: 'Pctempag*',
+            name: 'Pctempag**',
             color: '#56795A',
             pointPadding: 0,
             data: pctempag
